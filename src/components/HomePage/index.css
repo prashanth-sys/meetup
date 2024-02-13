@@ -1,0 +1,35 @@
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  min-height: 100vh;
+}
+.logo {
+  margin-left: 25px;
+  margin-top: 15px;
+}
+.home-container {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3%;
+}
+.heading {
+  color: #334155;
+  font-size: 35px;
+}
+.description {
+  color: #475569;
+  font-size: 20px;
+  margin-top: 0px;
+}
+.button {
+  height: 35px;
+  width: 90px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  background-color: #3b82f6;
+  border-width: 0px;
+  border-radius: 5px;
+}
